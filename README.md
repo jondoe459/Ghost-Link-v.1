@@ -17,4 +17,4 @@ The project will be expanded to include these components:
 3. **Middleware**: Integrating communication between the frontend and backend. This includes managing authentication, request-response handling. Potential tools: GraphQL API, Redis, Websockets.
 
 ## Instructions
-- Instructions for building and running the application will be added as development progresses.
+- Instructions for building and running the application will be added as development progresses. https://ghost-link-dad379ec.base44.app
